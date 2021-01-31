@@ -6,23 +6,23 @@
 * Projet(s) concerné(s) : **Alphacode**
 * Type de compte rendu  : **Réunion de positionnement**
 
-- [Création du club : AlphaCode](#cr%c3%a9ation-du-club--alphacode)
-  - [Avancement de la création du club - alphacode](#avancement-de-la-cr%c3%a9ation-du-club---alphacode)
-    - [Problématique](#probl%c3%a9matique)
-    - [Points amenés](#points-amen%c3%a9s)
-    - [Résultante du sujet](#r%c3%a9sultante-du-sujet)
+- [Création du club : AlphaCode](#création-du-club--alphacode)
+  - [Avancement de la création du club - alphacode](#avancement-de-la-création-du-club---alphacode)
+    - [Problématique](#problématique)
+    - [Points amenés](#points-amenés)
+    - [Résultante du sujet](#résultante-du-sujet)
   - [Charte graphique - alphacode](#charte-graphique---alphacode)
-    - [Problèmatique](#probl%c3%a8matique)
-    - [Points amenés](#points-amen%c3%a9s-1)
+    - [Problématique](#problématique-1)
+    - [Points amenés](#points-amenés-1)
     - [Pistes de solution](#pistes-de-solution)
     - [Evolutions possibles](#evolutions-possibles)
-    - [Résultante du sujet](#r%c3%a9sultante-du-sujet-1)
+    - [Résultante du sujet](#résultante-du-sujet-1)
   - [Opus Magnum](#opus-magnum)
-    - [Problèmatique](#probl%c3%a8matique-1)
+    - [Problématique](#problématique-2)
     - [Description du projet](#description-du-projet)
     - [Contenus du projet](#contenus-du-projet)
     - [Structures possibles](#structures-possibles)
-    - [Points amenés](#points-amen%c3%a9s-2)
+    - [Points amenés](#points-amenés-2)
     - [Evolutions possibles](#evolutions-possibles-1)
   - [Annexes](#annexes)
 
@@ -43,7 +43,7 @@
 ----------
 ## Charte graphique - alphacode
 
-### Problèmatique 
+### Problématique 
 > Comment s'écrit Alphacode ? (AlphaCode, alphacode, alphaCode, (Alpha)Code)
 
 > Quel est le logo du club ?
@@ -90,7 +90,7 @@
 ----------
 ## Opus Magnum
 
-### Problèmatique
+### Problématique
 > Qu'est-ce que Opus Magnum ?
 
 > Comment Structurer Opus Magnum ?

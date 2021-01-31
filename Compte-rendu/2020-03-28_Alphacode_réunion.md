@@ -5,21 +5,21 @@
 * Projet(s) concerné(s) : Alphacode & Jeu
 * Type de compte rendu  : réunion de cadrage
 
-- [Révision des choix graphiques #1](#r%c3%a9vision-des-choix-graphiques-1)
+- [Révision des choix graphiques #1](#révision-des-choix-graphiques-1)
   - [Typo/logo](#typologo)
-    - [Problèmatique](#probl%c3%a8matique)
-    - [Points amenés](#points-amen%c3%a9s)
+    - [Problématique](#problématique)
+    - [Points amenés](#points-amenés)
     - [Choix](#choix)
   - [Jeu](#jeu)
-    - [Problèmatique](#probl%c3%a8matique-1)
-    - [Points amenés](#points-amen%c3%a9s-1)
+    - [Problématique](#problématique-1)
+    - [Points amenés](#points-amenés-1)
     - [Pistes de solution](#pistes-de-solution)
     - [Evolutions possibles](#evolutions-possibles)
-    - [Résultante du sujet](#r%c3%a9sultante-du-sujet)
+    - [Résultante du sujet](#résultante-du-sujet)
 
 ## Typo/logo
 
-### Problèmatique 
+### Problématique 
 > Comment trouver un logo et une typo ?
 
 ### Points amenés
@@ -40,7 +40,7 @@
 
 ## Jeu
 
-### Problèmatique 
+### Problématique 
 > Sur quoi on part ?
 
 ### Points amenés

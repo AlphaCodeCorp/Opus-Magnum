@@ -1,6 +1,6 @@
 # Reprise d'activité 2021
 
-06/01/2021 : Réunion concernant les activités du club
+25/01/2021 : Réunion concernant les activités du club
 
 * Points du jour        : AlphaCode en 2021
 * Projet(s) concerné(s) : AlphaFest/The Reverse 

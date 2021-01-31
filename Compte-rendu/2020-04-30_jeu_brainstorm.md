@@ -8,7 +8,7 @@
 - [Brainstorm : Jeu (type Lorann)](#brainstorm--jeu-type-lorann)
   - [Jeu (type Lorann)](#jeu-type-lorann)
     - [Choix techniques](#choix-techniques)
-    - [Choix esthétiques](#choix-esth%c3%a9tiques)
+    - [Choix esthétiques](#choix-esthétiques)
     - [Roadmap & Organisation](#roadmap--organisation)
 
 ## Jeu (type Lorann)

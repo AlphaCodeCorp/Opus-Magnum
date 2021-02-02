@@ -1,0 +1,63 @@
+{
+	"Print legend template" : {
+		"prefix": ["leg", "legend"],
+		"body": ["## Légende\nMark   | Description",
+			"------ | ------\n🏃     | work in progress",
+			"✋     | blocked task",
+			"💪     | stretch goal for this iteration",
+			"🔴     | missing issue reference",
+			"🔵     | ore investigation required to remove uncertainty",
+			"⚫     | under discussion within the team",
+			"⬛     | a large work item, larger than one iteration"],
+		"description": "Print legend for template"
+	},
+
+	"Change color" : {
+		"prefix": ["col", "color"],
+		"body":"<span style=\"color:#$1\"> $2</span>",
+		"description":"Change the color of the text"
+	},
+
+	"Change text in red" : {
+		"prefix": ["rcol", "redcolor"],
+		"body":"<span style=\"color:#FF0000\"> $1</span>",
+		"description":"Change the color of the text in red"
+	},
+
+	
+	"Change text in green" : {
+		"prefix": ["gcol", "greencolor"],
+		"body":"<span style=\"color:#008000\"> $1</span>",
+		"description":"Change the color of the text in red"
+	},
+
+	
+	"Change text in yellow" : {
+		"prefix": ["ycol", "yellowcolor"],
+		"body":"<span style=\"color:#FFFF00\"> $1</span>",
+		"description":"Change the color of the text in red"
+	},
+
+	"Code block" : {
+		"prefix": ["code"],
+		"body" : "```$2```",
+		"description":"Create block of code"
+	},
+
+	"Menu déroulant": {
+		"prefix" : ["der", "deroulant"],
+		"body":["<details>",
+			"<summary>$1</summary>",
+			"$2",
+			"</details>"],
+		"description": "Create a dropdown"
+	},
+
+	"Opus Magnum Case" : {
+		"prefix" : ["opu", "opus", "opus-case"],
+		"body":["<a href=\"$1\">"
+			"<img align=\"center\" src=\"https://github-readme-stats.vercel.app/api/pin/?username=AlphaCodeCorp&repo=$2\" />"
+	  		"</a>"],
+		"description":"Create case like Opus Magnum"
+	}
+}

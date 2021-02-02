@@ -22,7 +22,7 @@ _texte ici_
 -
 -
 
-### Y a t-il des points positifs à remonter ?
+### Il y a t-il des points positifs à remonter ?
 
 _texte ici_
 

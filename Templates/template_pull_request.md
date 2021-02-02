@@ -4,8 +4,6 @@
 
 En fonction de l'issue
 
-> AlphaFeature/XXX - Titre de la pull request
->
 > Feature/XXX - Titre de la pull request
 >
 > Debug/XXX - Titre de la pull request

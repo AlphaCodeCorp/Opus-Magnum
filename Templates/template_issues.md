@@ -1,22 +1,6 @@
 # Template Issues
 
-## Pour créer une issue pour l'AlphaFest
-
-* Titre
-
-> AlphaFeature/XXX - **Titre**
-
-XXX correspond au numéro de l'issue
-
-* Corps
-
-> **Description de la fonctionnalité à ajouter**
->
-> **Description du fonctionnement si possible**
->
-> **Information supplémentaire**
-
-## Pour créer une issue Feature de base
+## Pour ajouter une issue Feature de base
 
 * Titre
 

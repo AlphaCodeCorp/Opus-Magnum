@@ -144,8 +144,10 @@ Le projet permettra de faire un premier contact entre les membres et les projets
 ## Annexes
 
 <style>
+
 @import url('https://fonts.googleapis.com/css?family=Kelly+Slab&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Cousine&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Titillium+Web:700&display=swap');
+
 </style>

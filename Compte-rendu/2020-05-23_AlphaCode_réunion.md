@@ -21,4 +21,4 @@ Raspberry pi 4 B 2GB : 39.90€
 
 Raspberry pi 4 B 4GB : 60.90€
 
-Raspberry pi zero W : 10.44€/5.40€(no wifi)
+Raspberry pi zero W : 10.44€/5.40€ (no wifi)

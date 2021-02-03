@@ -55,9 +55,15 @@
 
 	"Opus Magnum Case" : {
 		"prefix" : ["opu", "opus", "opus-case"],
-		"body":["<a href=\"$1\">"
-			"<img align=\"center\" src=\"https://github-readme-stats.vercel.app/api/pin/?username=AlphaCodeCorp&repo=$2\" />"
+		"body":["<a href=\"$1\">",
+			"<img align=\"center\" src=\"https://github-readme-stats.vercel.app/api/pin/?username=AlphaCodeCorp&repo=$2\" />",
 	  		"</a>"],
 		"description":"Create case like Opus Magnum"
+	},
+
+	"Checklist" : {
+		"prefix" : ["che", "check"],
+		"body":["- [ ] $1"],
+		"description":"Create checklist"
 	}
 }

@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://user-images.githubusercontent.com/4565223/54240739-2d6e0b00-451f-11e9-8473-d15e78914c9b.png" height="36" valign="bottom" /> alphaCode
+  <img src="https://github.com/Sacrezar/Opus-Magnum/blob/master/assets/black_alpha_logo.png" height="36" valign="bottom" /> alphaCode
 </h1>
 
 > Opus-Magnum permettra de faire un premier contact entre les membres et les projets du club.

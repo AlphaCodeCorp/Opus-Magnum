@@ -1,8 +1,10 @@
-<h1>
-  <img src="https://github.com/Sacrezar/Opus-Magnum/blob/master/assets/black_alpha_logo.png" height="50" style="vertical-align:bottom"/> 
-  Alphacode
-  <img src="https://github.com/Sacrezar/Opus-Magnum/blob/master/assets/white_alpha_logo.png" height="50" style="vertical-align:bottom"/>
-</h1>
+<table>
+    <tr>
+        <td valign="top"><img src="https://github.com/Sacrezar/Opus-Magnum/blob/master/assets/black_alpha_logo.png" alt="" /></td>
+        <td valign="middle"><h1>Alphacode</h1></td>
+        <td valign="top"><img src="https://github.com/Sacrezar/Opus-Magnum/blob/master/assets/white_alpha_logo.png" alt="" /></td>
+    </tr>
+</table>
 
 > Opus-Magnum permettra de faire un premier contact entre les membres et les projets du club.
 

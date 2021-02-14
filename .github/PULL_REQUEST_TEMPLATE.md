@@ -1,4 +1,4 @@
-# ALPHAFEST: Titre
+# TITRE
 
 Numéro de l'issue :
 
